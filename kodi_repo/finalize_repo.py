@@ -5,7 +5,8 @@ import hashlib, sys, zipfile
 from pathlib import Path
 user, repo = sys.argv[1], sys.argv[2]
 branch = sys.argv[3] if len(sys.argv) > 3 else "main"
-base = f"https://raw.githubusercontent.com/{user}/{repo}/{branch}/"
+subpath = sys.argv[4].strip("/") if len(sys.argv) > 4 and sys.argv[4].strip("/") else ""
+base = f"https://raw.githubusercontent.com/{user}/{repo}/{branch}/" + (f"{subpath}/" if subpath else "")
 root = Path(__file__).resolve().parent
 rid = "repository.iptv.flowproxy"
 ax = root / rid / "addon.xml"
