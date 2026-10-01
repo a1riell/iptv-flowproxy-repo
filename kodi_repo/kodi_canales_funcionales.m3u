@@ -1941,469 +1941,519 @@ http://127.0.0.1:18080/dgo/live/c5n-canal-5-noticias.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1031|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/canal-26.mpd
-#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="CARTOON NETWORK (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="328" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDk4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790764046173",CARTOON NETWORK (DGO)
+#EXTINF:-1 tvg-id="CaracolMix.ar" tvg-name="CARACOL MIX (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="328" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x149/Y2gwMTAwMDAwMDAxMDYzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x149.png?timestamp=1790752615507",CARACOL MIX (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/caracol-mix.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="CARTOON NETWORK (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="329" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDk4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790764046173",CARTOON NETWORK (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1037|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/cartoon-network.mpd
-#EXTINF:-1 tvg-id="CGTN.ar" tvg-name="CGTN (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="329" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x255/Y2gwMTAwMDAwMDAwNDA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x255.png?timestamp=1790752623232",CGTN (DGO)
+#EXTINF:-1 tvg-id="CGTN.ar" tvg-name="CGTN (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="330" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x255/Y2gwMTAwMDAwMDAwNDA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x255.png?timestamp=1790752623232",CGTN (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1304|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/cgtn.mpd
-#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL COLOMBIA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="330" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752089747",CINECANAL COLOMBIA (DGO)
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL COLOMBIA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="331" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752089747",CINECANAL COLOMBIA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1043|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/cinecanal-colombia.mpd
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="331" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773944850",CINEMAX (DGO)
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="332" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773944850",CINEMAX (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1046|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/cinemax.mpd
-#EXTINF:-1 tvg-id="CNNenEspanol.ar" tvg-name="CNN EN ESPAÑOL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="332" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/192x144/Y2gwMTAwMDAwMDAwMTExX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_192x144.png?timestamp=1790752091565",CNN EN ESPAÑOL (DGO)
+#EXTINF:-1 tvg-id="CNNenEspanol.ar" tvg-name="CNN EN ESPAÑOL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="333" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/192x144/Y2gwMTAwMDAwMDAwMTExX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_192x144.png?timestamp=1790752091565",CNN EN ESPAÑOL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1050|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/cnn-en-espa-ol.mpd
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA TV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="333" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752097808",CRONICA TV (DGO)
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA TV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="334" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752097808",CRONICA TV (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1055|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/cronica-tv.mpd
-#EXTINF:-1 tvg-id="Daystar.ar" tvg-name="DAYSTAR (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="334" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x202/Y2gwMTAwMDAwMDAwNDEwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x202.png?timestamp=1790752623125",DAYSTAR (DGO)
+#EXTINF:-1 tvg-id="Daystar.ar" tvg-name="DAYSTAR (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="335" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x202/Y2gwMTAwMDAwMDAwNDEwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x202.png?timestamp=1790752623125",DAYSTAR (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1306|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/daystar.mpd
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="335" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDEwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752139246",DEPORTV (DGO)
+#EXTINF:-1 tvg-id="DefianceChannel.ar" tvg-name="DEFIANCE CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="336" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x202/Y2gwMTAwMDAwMDAwNDEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x202.png?timestamp=1790752617624",DEFIANCE CHANNEL (DGO)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/defiance-channel.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="337" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDEwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752139246",DEPORTV (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1056|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/deportv.mpd
-#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="336" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765242431",DISCOVERY CHANNEL (DGO)
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="338" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765242431",DISCOVERY CHANNEL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1073|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/discovery-channel.mpd
-#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY HOME & HEALTH (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="337" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772441164",DISCOVERY HOME & HEALTH (DGO)
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY HOME & HEALTH (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="339" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772441164",DISCOVERY HOME & HEALTH (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1075|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/discovery-home-health.mpd
-#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="338" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/250x250/Y2gwMTAwMDAwMDAwMTQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_250x250.png?timestamp=1790765556386",DISCOVERY KIDS (DGO)
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="340" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/250x250/Y2gwMTAwMDAwMDAwMTQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_250x250.png?timestamp=1790765556386",DISCOVERY KIDS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1079|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/discovery-kids.mpd
-#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="339" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x153/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x153.png?timestamp=1790773947734",DISNEY CHANNEL (DGO)
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="341" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x153/Y2gwMTAwMDAwMDAwMTQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x153.png?timestamp=1790773947734",DISNEY CHANNEL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1084|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/disney-channel.mpd
-#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JR (SUR) (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="340" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQ2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765246567",DISNEY JR (SUR) (DGO)
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JR (SUR) (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="342" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQ2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765246567",DISNEY JR (SUR) (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1087|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/disney-jr-sur.mpd
-#EXTINF:-1 tvg-id="DNews.ar" tvg-name="DNEWS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="341" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752591926",DNEWS (DGO)
+#EXTINF:-1 tvg-id="DNews.ar" tvg-name="DNEWS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="343" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752591926",DNEWS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1264|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/dnews.mpd
-#EXTINF:-1 tvg-id="DShow.ar" tvg-name="DSHOW (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="342" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752608890",DSHOW (DGO)
+#EXTINF:-1 tvg-id="DShow.ar" tvg-name="DSHOW (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="344" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752608890",DSHOW (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1276|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/dshow.mpd
-#EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DSPORTS 2 (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="343" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752139896",DSPORTS 2 (DGO)
+#EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DSPORTS 2 (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="345" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752139896",DSPORTS 2 (DGO) (FHD)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1063|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/dsports2.mpd
-#EXTINF:-1 tvg-id="DSports.ar" tvg-name="DSPORTS ARG (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="344" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790766141642",DSPORTS ARG (DGO)
+#EXTINF:-1 tvg-id="DSports.ar" tvg-name="DSPORTS ARG (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="346" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDIxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790766141642",DSPORTS ARG (DGO) (FHD)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1057|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/dsports.mpd
-#EXTINF:-1 tvg-id="DSports_Plus_UY.ar" tvg-name="DSPORTS + (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="345" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790766141712",DSPORTS + (DGO)
+#EXTINF:-1 tvg-id="DSports_Plus_UY.ar" tvg-name="DSPORTS + (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="347" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790766141712",DSPORTS + (DGO) (FHD)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1071|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/dsports-plus.mpd
-#EXTINF:-1 tvg-id="DSportsRadio.ar" tvg-name="DSPORTS RADIO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="346" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzEzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752564308",DSPORTS RADIO (DGO)
+#EXTINF:-1 tvg-id="DSportsRadio.ar" tvg-name="DSPORTS RADIO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="348" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzEzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752564308",DSPORTS RADIO (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1262|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/dsports-radio.mpd
-#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name="E! ENTERTAINMENT (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="347" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQ5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752198953",E! ENTERTAINMENT (DGO)
+#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name="E! ENTERTAINMENT (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="349" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTQ5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752198953",E! ENTERTAINMENT (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1090|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/e-entertainment.mpd
-#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="EL GOURMET (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="348" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752205273",EL GOURMET (DGO)
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="EL GOURMET (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="350" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752205273",EL GOURMET (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1093|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/el-gourmet.mpd
-#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="EL NUEVE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="349" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDkzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752070148",EL NUEVE (DGO)
+#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="EL NUEVE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="351" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDkzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752070148",EL NUEVE (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1032|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/el-nueve.mpd
-#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="EL TRECE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="350" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752195017",EL TRECE (DGO)
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="EL TRECE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="352" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752195017",EL TRECE (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1095|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/el-trece.mpd
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="ENCUENTRO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="351" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/270x270/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_270x270.png?timestamp=1790752207214",ENCUENTRO (DGO)
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="ENCUENTRO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="353" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/270x270/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_270x270.png?timestamp=1790752207214",ENCUENTRO (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1096|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/encuentro.mpd
-#EXTINF:-1 tvg-id="EPlus.ar" tvg-name="EPLUS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="352" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x180/Y2gwMTAwMDAwMDAwMzk2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x180.png?timestamp=1790752620463",EPLUS (DGO)
+#EXTINF:-1 tvg-id="EPlus.ar" tvg-name="EPLUS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="354" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x180/Y2gwMTAwMDAwMDAwMzk2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x180.png?timestamp=1790752620463",EPLUS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1298|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/eplus.mpd
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="353" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773041327",ESPN 2 ARGENTINA (DGO)
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="355" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773041327",ESPN 2 ARGENTINA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1099|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/espn2.mpd
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 SUR (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="354" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTYzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773041332",ESPN 3 SUR (DGO)
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 SUR (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="356" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTYzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773041332",ESPN 3 SUR (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1103|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/espn3.mpd
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="355" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTYyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773041365",ESPN ARGENTINA (DGO)
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="357" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTYyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773041365",ESPN ARGENTINA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1104|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/espn.mpd
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN PREMIUM ARG (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="356" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTgyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752227029",ESPN PREMIUM ARG (DGO)
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN PREMIUM ARG (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="358" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTgyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752227029",ESPN PREMIUM ARG (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1125|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/espn-premium.mpd
-#EXTINF:-1 tvg-id="FoxNews.ar" tvg-name="FOX NEWS CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="357" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTcyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752226216",FOX NEWS CHANNEL (DGO)
+#EXTINF:-1 tvg-id="FoxNews.ar" tvg-name="FOX NEWS CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="359" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTcyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752226216",FOX NEWS CHANNEL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1114|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/fox-news-channel.mpd
-#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="FOX SPORTS 2 ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="358" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743504",FOX SPORTS 2 ARGENTINA (DGO)
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="FOX SPORTS 2 ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="360" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743504",FOX SPORTS 2 ARGENTINA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1281|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/fox-sports2.mpd
-#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="359" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765845252",FOX SPORTS 3 ARGENTINA (DGO)
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="361" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765845252",FOX SPORTS 3 ARGENTINA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1280|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/fox-sports3.mpd
-#EXTINF:-1 tvg-id="FOXSports.ar" tvg-name="FOX SPORTS ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="360" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTc3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743481",FOX SPORTS ARGENTINA (DGO)
+#EXTINF:-1 tvg-id="FOXSports.ar" tvg-name="FOX SPORTS ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="362" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTc3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743481",FOX SPORTS ARGENTINA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1118|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/fox-sports.mpd
-#EXTINF:-1 tvg-id="France 24 en Español.ar" tvg-name="FRANCE 24 (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="361" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x450/Y2gwMTAwMDAwMDAwNDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x450.png?timestamp=1790752624435",FRANCE 24 (DGO)
+#EXTINF:-1 tvg-id="France 24 en Español.ar" tvg-name="FRANCE 24 (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="363" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x450/Y2gwMTAwMDAwMDAwNDIwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x450.png?timestamp=1790752624435",FRANCE 24 (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1308|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/france-24.mpd
-#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX COLOMBIA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="362" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTg2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752230203",FX COLOMBIA (DGO)
+#EXTINF:-1 tvg-id="FreeTVAccion.ar" tvg-name="FREE TV ACCIÓN (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="364" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzkyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752612892",FREE TV ACCIÓN (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/free-tv-acci-n.m3u8
+#EXTINF:-1 tvg-id="FreeTVDrama.ar" tvg-name="FREE TV DRAMA (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="365" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzg4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752612084",FREE TV DRAMA (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/free-tv-drama.m3u8
+#EXTINF:-1 tvg-id="FreeTVEstelar.ar" tvg-name="FREE TV ESTELAR (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="366" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzk0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765846238",FREE TV ESTELAR (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/free-tv-estelar.m3u8
+#EXTINF:-1 tvg-id="FreeTVFamilia.ar" tvg-name="FREE TV FAMILIA (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="367" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzkwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790765845461",FREE TV FAMILIA (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/free-tv-familia.m3u8
+#EXTINF:-1 tvg-id="FreeTVLive.ar" tvg-name="FREE TV LIVE (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="368" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAxMDE5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1790765847394",FREE TV LIVE (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/free-tv-live.m3u8
+#EXTINF:-1 tvg-id="FreeTVTerror.ar" tvg-name="FREE TV TERROR (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="369" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzkxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752606939",FREE TV TERROR (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/free-tv-terror.m3u8
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX COLOMBIA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="370" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTg2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752230203",FX COLOMBIA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1129|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/fx-colombia.mpd
-#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="363" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790766440865",HISTORY CHANNEL (DGO)
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="HISTORY CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="371" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790766440865",HISTORY CHANNEL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1148|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/history-channel.mpd
-#EXTINF:-1 tvg-id="HolaTV.ar" tvg-name="HOLA TV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="364" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/280x70/Y2gwMTAwMDAwMDAwMDE4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_280x70.png?timestamp=1790751856094",HOLA TV (DGO)
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-name="HOLA TV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="372" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/280x70/Y2gwMTAwMDAwMDAwMDE4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_280x70.png?timestamp=1790751856094",HOLA TV (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1149|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/hola-tv.mpd
-#EXTINF:-1 tvg-id="KZO.ar" tvg-name="KZO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="365" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x179/Y2gwMTAwMDAwMDAwMzQ0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x179.png?timestamp=1790752609851",KZO (DGO)
+#EXTINF:-1 tvg-id="KZO.ar" tvg-name="KZO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="373" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x179/Y2gwMTAwMDAwMDAwMzQ0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x179.png?timestamp=1790752609851",KZO (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1286|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/kzo.mpd
-#EXTINF:-1 tvg-id="LN+.ar" tvg-name="LA NACION + (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="366" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/270x162/Y2gwMTAwMDAwMDAwMjEwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_270x162.png?timestamp=1790752290043",LA NACION + (DGO)
+#EXTINF:-1 tvg-id="LN+.ar" tvg-name="LA NACION + (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="374" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/270x162/Y2gwMTAwMDAwMDAwMjEwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_270x162.png?timestamp=1790752290043",LA NACION + (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1154|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/la-nacion.mpd
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="LA TV PUBLICA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="367" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjE0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752335173",LA TV PUBLICA (DGO)
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="LA TV PUBLICA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="375" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjE0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752335173",LA TV PUBLICA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1156|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/la-tv-publica.mpd
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-name="MAGAZINE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="368" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjExX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790769447923",MAGAZINE (DGO)
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-name="MAGAZINE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="376" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjExX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790769447923",MAGAZINE (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1160|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/magazine.mpd
-#EXTINF:-1 tvg-id="MegaNoticias.ar" tvg-name="MEGA NOTICIAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="369" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x164/Y2gwMTAwMDAwMDAwMzk4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x164.png?timestamp=1790752621920",MEGA NOTICIAS (DGO)
+#EXTINF:-1 tvg-id="MegaNoticias.ar" tvg-name="MEGA NOTICIAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="377" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x164/Y2gwMTAwMDAwMDAwMzk4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x164.png?timestamp=1790752621920",MEGA NOTICIAS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1300|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/mega-noticias.mpd
-#EXTINF:-1 tvg-id="MegaTiempo.ar" tvg-name="MEGA TIEMPO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="370" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/229x227/Y2gwMTAwMDAwMDAwMzk5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_229x227.png?timestamp=1790752615321",MEGA TIEMPO (DGO)
+#EXTINF:-1 tvg-id="MegaTiempo.ar" tvg-name="MEGA TIEMPO (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="378" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/229x227/Y2gwMTAwMDAwMDAwMzk5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_229x227.png?timestamp=1790752615321",MEGA TIEMPO (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1299|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/mega-tiempo.mpd
-#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="371" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMjIyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1790769139342",MTV (DGO)
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="379" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMjIyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png?timestamp=1790769139342",MTV (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1165|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/mtv.mpd
-#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NATIONAL GEOGRAPHIC (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="372" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjIzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790764046935",NATIONAL GEOGRAPHIC (DGO)
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NATIONAL GEOGRAPHIC (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="380" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjIzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790764046935",NATIONAL GEOGRAPHIC (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1168|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/national-geographic.mpd
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="NET TV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="373" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjI1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752465605",NET TV (DGO)
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="NET TV (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="381" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjI1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752465605",NET TV (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1172|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/net-tv.mpd
-#EXTINF:-1 tvg-id="Newsmax.ar" tvg-name="NEWSMAX (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="374" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzk1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752617968",NEWSMAX (DGO)
+#EXTINF:-1 tvg-id="Newsmax.ar" tvg-name="NEWSMAX (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="382" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzk1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752617968",NEWSMAX (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1297|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/newsmax.mpd
-#EXTINF:-1 tvg-id="Nickelodeon.ar" tvg-name="NICKELODEON (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="375" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772148135",NICKELODEON (DGO)
+#EXTINF:-1 tvg-id="Nickelodeon.ar" tvg-name="NICKELODEON (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="383" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772148135",NICKELODEON (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1175|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/nickelodeon.mpd
-#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="QUIERO MÚSICA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="376" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x288/Y2gwMTAwMDAwMDAwMjM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x288.png?timestamp=1790752508180",QUIERO MÚSICA (DGO)
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="QUIERO MÚSICA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="384" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x288/Y2gwMTAwMDAwMDAwMjM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x288.png?timestamp=1790752508180",QUIERO MÚSICA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1183|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/quiero-musica-en-mi-idioma.mpd
-#EXTINF:-1 tvg-id="RAI.ar" tvg-name="RAI (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="377" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790754438608",RAI (DGO)
+#EXTINF:-1 tvg-id="RAI.ar" tvg-name="RAI (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="385" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790754438608",RAI (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1184|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/rai.mpd
-#EXTINF:-1 tvg-id="RCNMas.ar" tvg-name="RCN MAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="378" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/2048x1151/Y2gwMTAwMDAwMDAxMDI1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_2048x1151.png?timestamp=1790752632593",RCN MAS (DGO)
+#EXTINF:-1 tvg-id="RCNMas.ar" tvg-name="RCN MAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="386" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/2048x1151/Y2gwMTAwMDAwMDAxMDI1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_2048x1151.png?timestamp=1790752632593",RCN MAS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_5001|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/rcn-mas.mpd
-#EXTINF:-1 tvg-id="RCNNoticias.ar" tvg-name="RCN NOTICIAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="379" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/533x533/Y2gwMTAwMDAwMDAxMDI2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_533x533.png?timestamp=1790752625832",RCN NOTICIAS (DGO)
+#EXTINF:-1 tvg-id="RCNNoticias.ar" tvg-name="RCN NOTICIAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="387" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/533x533/Y2gwMTAwMDAwMDAxMDI2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_533x533.png?timestamp=1790752625832",RCN NOTICIAS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_5002|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/rcn-noticias.mpd
-#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="SONY (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="380" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjQ3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752518814",SONY (DGO)
+#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="SONY (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="388" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjQ3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790752518814",SONY (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1190|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/sony.mpd
-#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="381" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743326",SONY MOVIES (DGO)
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="389" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743326",SONY MOVIES (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1263|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/sony-movies.mpd
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE (SUR) (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="382" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjQ2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790761644468",SPACE (SUR) (DGO)
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE (SUR) (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="390" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjQ2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790761644468",SPACE (SUR) (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1193|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/space-sur.mpd
-#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="383" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjU5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773947660",STUDIO UNIVERSAL (DGO)
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="391" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjU5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773947660",STUDIO UNIVERSAL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1210|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/studio-universal.mpd
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="384" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790757446068",TELEFE (DGO)
+#EXTINF:-1 tvg-id="Tastemade.ar" tvg-name="TASTEMADE (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="392" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x82/Y2gwMTAwMDAwMDAxMDY0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x82.png?timestamp=1790752635154",TASTEMADE (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/tastemade.m3u8
+#EXTINF:-1 tvg-id="TastemadeViajes.ar" tvg-name="TASTEMADE VIAJES (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="393" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x180/Y2gwMTAwMDAwMDAxMDY1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x180.png?timestamp=1790752635189",TASTEMADE VIAJES (DGO) (FHD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://127.0.0.1:18080/dgo/live/tastemade-viajes.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="394" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790757446068",TELEFE (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1216|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/telefe.mpd
-#EXTINF:-1 tvg-id="Telemundo Internacional.ar" tvg-name="TELEMUNDO INTERNACIONAL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="385" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x349/Y2gwMTAwMDAwMDAwMDUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x349.png?timestamp=1790751957297",TELEMUNDO INTERNACIONAL (DGO)
+#EXTINF:-1 tvg-id="Telemundo Internacional.ar" tvg-name="TELEMUNDO INTERNACIONAL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="395" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x349/Y2gwMTAwMDAwMDAwMDUyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x349.png?timestamp=1790751957297",TELEMUNDO INTERNACIONAL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1217|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/telemundo-internacional.mpd
-#EXTINF:-1 tvg-id="TLC.ar" tvg-name="TLC (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="386" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790764966005",TLC (DGO)
+#EXTINF:-1 tvg-id="TLC.ar" tvg-name="TLC (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="396" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790764966005",TLC (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1224|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/tlc.mpd
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="387" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQ2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743046",TNT (DGO)
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="397" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQ2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790772743046",TNT (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1227|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/tnt.mpd
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="388" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x125/Y2gwMTAwMDAwMDAwMDQ0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x125.png?timestamp=1790751919021",TNT SERIES (DGO)
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="398" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x125/Y2gwMTAwMDAwMDAwMDQ0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x125.png?timestamp=1790751919021",TNT SERIES (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1229|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/tnt-series.mpd
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="389" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790751915616",TNT SPORTS ARGENTINA (DGO)
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS ARGENTINA (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="399" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790751915616",TNT SPORTS ARGENTINA (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1233|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/tnt-sports.mpd
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TODO NOTICIAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="390" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x160/Y2gwMTAwMDAwMDAwMDQ4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x160.png?timestamp=1790751930531",TODO NOTICIAS (DGO)
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TODO NOTICIAS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="400" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x160/Y2gwMTAwMDAwMDAwMDQ4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x160.png?timestamp=1790751930531",TODO NOTICIAS (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1225|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/todo-noticias.mpd
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="391" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x86/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x86.png?timestamp=1790757445963",TYC SPORTS (DGO)
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS (DGO) (FHD)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="401" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x86/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x86.png?timestamp=1790757445963",TYC SPORTS (DGO) (FHD)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1240|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/tyc-sports.mpd
-#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name="UNIVERSAL CHANNEL (SOUTH) (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="392" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773955430",UNIVERSAL CHANNEL (SOUTH) (DGO)
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name="UNIVERSAL CHANNEL (SOUTH) (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="402" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDMxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790773955430",UNIVERSAL CHANNEL (SOUTH) (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1243|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/universal-channel-south.mpd
-#EXTINF:-1 tvg-id="Volver.ar" tvg-name="VOLVER (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="393" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790751865195",VOLVER (DGO)
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="VOLVER (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="403" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1790751865195",VOLVER (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1244|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/volver.mpd
-#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="394" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x317/Y2gwMTAwMDAwMDAwMDI2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x317.png?timestamp=1790772743043",WARNER CHANNEL (DGO)
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER CHANNEL (DGO)" group-title="[17] CANALES DGO (EXPERIMENTAL)" tvg-chno="404" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x317/Y2gwMTAwMDAwMDAwMDI2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x317.png?timestamp=1790772743043",WARNER CHANNEL (DGO)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
