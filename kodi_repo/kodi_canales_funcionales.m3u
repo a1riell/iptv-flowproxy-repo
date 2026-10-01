@@ -41,37 +41,37 @@ http://127.0.0.1:18080/kodi/live/telefe.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|589f5b6f4afec0b3362cd6be2ab1eb36:6d685f3151730ca6a4be7765a46d30a5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36&Origin=https%3A//portal.app.flow.com.ar/&Referer=https%3A//portal.app.flow.com.py/
 http://127.0.0.1:18080/kodi/live/tv-publica.mpd
-#EXTINF:-1 tvg-id="cazetv-live-1.local" tvg-name="CAZÉTV LIVE 1 [60 FPS]" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="8",CAZÉTV LIVE 1 [60 FPS]
+#EXTINF:-1 tvg-id="cazetv-live-1.local" tvg-name="CAZÉTV LIVE 1 (60 FPS)" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="8",CAZÉTV LIVE 1 (60 FPS)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=AivAndroidPlayer/1.0%20%28AndroidDevice%29&Referer=https%3A//www.primevideo.com/
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-#EXTINF:-1 tvg-id="cazetv-live-2.local" tvg-name="CAZÉTV LIVE 2 [60 FPS]" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="9",CAZÉTV LIVE 2 [60 FPS]
+#EXTINF:-1 tvg-id="cazetv-live-2.local" tvg-name="CAZÉTV LIVE 2 (60 FPS)" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="9",CAZÉTV LIVE 2 (60 FPS)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/149.0.0.0%20Safari/537.36
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-#EXTINF:-1 tvg-id="dsports-2.local" tvg-name="DSPORTS 2 [60 FPS]" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/137.webp",DSPORTS 2 [60 FPS]
+#EXTINF:-1 tvg-id="dsports-2.local" tvg-name="DSPORTS 2 (60 FPS)" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/137.webp",DSPORTS 2 (60 FPS)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=AivAndroidPlayer/1.0%20%28AndroidDevice%29&Referer=https%3A//www.primevideo.com/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
-#EXTINF:-1 tvg-id="dsports.local" tvg-name="DSPORTS [60 FPS]" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/133.webp",DSPORTS [60 FPS]
+#EXTINF:-1 tvg-id="dsports.local" tvg-name="DSPORTS (60 FPS)" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/133.webp",DSPORTS (60 FPS)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=AivAndroidPlayer/1.0%20%28AndroidDevice%29&Referer=https%3A//www.primevideo.com/
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-id="dsports-colombia.local" tvg-name="DSPORTS COLOMBIA [60 FPS]" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/135.webp",DSPORTS COLOMBIA [60 FPS]
+#EXTINF:-1 tvg-id="dsports-colombia.local" tvg-name="DSPORTS COLOMBIA (60 FPS)" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/135.webp",DSPORTS COLOMBIA (60 FPS)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=AivAndroidPlayer/1.0%20%28AndroidDevice%29&Referer=https%3A//www.primevideo.com/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-#EXTINF:-1 tvg-id="fox-one-usa.local" tvg-name="FOX ONE USA [60 FPS]" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="13" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png",FOX ONE USA [60 FPS]
+#EXTINF:-1 tvg-id="fox-one-usa.local" tvg-name="FOX ONE USA (60 FPS)" group-title="[02] 60 FPS - ALTA FLUIDEZ" tvg-chno="13" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png",FOX ONE USA (60 FPS)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
