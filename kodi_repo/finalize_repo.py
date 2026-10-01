@@ -23,7 +23,9 @@ parts = ['<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<addons>\n']
 for d in sorted(root.iterdir()):
     a = d / "addon.xml"
     if d.is_dir() and a.is_file():
-        parts.append(a.read_text(encoding="utf-8").strip() + "\n")
+        addon_text = a.read_text(encoding="utf-8").strip()
+        clean_addon = re.sub(r'<\?xml[^>]*\?>\s*', '', addon_text).strip()
+        parts.append(clean_addon + "\n")
 parts.append("</addons>\n")
 xml = "".join(parts)
 (root / "addons.xml").write_text(xml, encoding="utf-8")
