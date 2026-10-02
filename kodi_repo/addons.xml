@@ -15,7 +15,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="service.iptv.flowproxy" name="IPTV Flow Local Proxy" version="1.2.6" provider-name="IPTV Final">
+<addon id="service.iptv.flowproxy" name="IPTV Flow Local Proxy" version="1.2.8" provider-name="IPTV Final">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -27,7 +27,7 @@
         <assets>
             <icon>icon.png</icon>
         </assets>
-        <news lang="es">v1.2.6: Integración oficial de Flow con proxy de licencias Widevine PRM, sesión persistente M11, fallback automático y protección total contra rotación de claves deportivas (ESPN Premium, TNT Sports, TyC Sports, etc.).</news>
+        <news lang="es">v1.2.8: Optimización de zapping ultrarrápido y reducción de latencia en DGO (HTTP Keep-Alive con seguimiento de redirecciones CDN, minBufferTime acelerado a 4s, delay a 12s), soporte 1080p FHD en DSPORTS y TyC Sports, y resolución resiliente.</news>
     </extension>
 </addon>
 </addons>
