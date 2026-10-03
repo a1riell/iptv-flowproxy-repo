@@ -15,7 +15,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="service.iptv.flowproxy" name="IPTV Flow Local Proxy" version="1.3.0" provider-name="IPTV Final">
+<addon id="service.iptv.flowproxy" name="IPTV Flow Local Proxy" version="1.3.1" provider-name="IPTV Final">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -27,7 +27,7 @@
         <assets>
             <icon>icon.png</icon>
         </assets>
-        <news lang="es">v1.3.0: DGO adopta periódicamente credenciales remotas más nuevas sin hacer rollback; Disney recupera automáticamente una sesión remota válida cuando la copia local requiere reautenticación.</news>
+        <news lang="es">v1.3.1: Cada TV Box convierte automáticamente el bootstrap web de DGO en una sesión TV renovable con deviceId propio; adopción remota sin rollback y recuperación automática de Disney.</news>
     </extension>
 </addon>
 </addons>
