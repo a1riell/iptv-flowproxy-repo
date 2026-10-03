@@ -2460,3 +2460,31 @@ http://127.0.0.1:18080/dgo/live/volver.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/dgo/license/Live_1248|Content-Type=application%2Foctet-stream|R{SSM}|R
 http://127.0.0.1:18080/dgo/live/warner-channel.mpd
+#EXTINF:-1 tvg-id="disney-linear-5f5fe8b4-5274-4424-af85-8ac33ab62128" tvg-name="ESPN 1 (DISNEY+)" group-title="[19] DISNEY+ / ESPN (BAMGRID)",ESPN 1 (DISNEY+)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/disney/license/disney-linear-5f5fe8b4-5274-4424-af85-8ac33ab62128||R{SSM}|
+http://127.0.0.1:18080/disney/live/disney-linear-5f5fe8b4-5274-4424-af85-8ac33ab62128.m3u8
+#EXTINF:-1 tvg-id="disney-linear-7e984bb3-92bc-4c1e-8ed2-c66ad9d996ce" tvg-name="ESPN 2 (DISNEY+)" group-title="[19] DISNEY+ / ESPN (BAMGRID)",ESPN 2 (DISNEY+)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/disney/license/disney-linear-7e984bb3-92bc-4c1e-8ed2-c66ad9d996ce||R{SSM}|
+http://127.0.0.1:18080/disney/live/disney-linear-7e984bb3-92bc-4c1e-8ed2-c66ad9d996ce.m3u8
+#EXTINF:-1 tvg-id="disney-linear-32e79264-0454-4a53-a732-4c7ed7b5ff1f" tvg-name="ESPN 3 (DISNEY+)" group-title="[19] DISNEY+ / ESPN (BAMGRID)",ESPN 3 (DISNEY+)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/disney/license/disney-linear-32e79264-0454-4a53-a732-4c7ed7b5ff1f||R{SSM}|
+http://127.0.0.1:18080/disney/live/disney-linear-32e79264-0454-4a53-a732-4c7ed7b5ff1f.m3u8
+#EXTINF:-1 tvg-id="disney-linear-ec26a05e-a9cc-4db4-804e-77465738e667" tvg-name="ESPN 4 (DISNEY+)" group-title="[19] DISNEY+ / ESPN (BAMGRID)",ESPN 4 (DISNEY+)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:18080/disney/license/disney-linear-ec26a05e-a9cc-4db4-804e-77465738e667||R{SSM}|
+http://127.0.0.1:18080/disney/live/disney-linear-ec26a05e-a9cc-4db4-804e-77465738e667.m3u8
