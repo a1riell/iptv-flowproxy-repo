@@ -15,7 +15,7 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="service.iptv.flowproxy" name="IPTV Flow Local Proxy" version="1.3.2" provider-name="IPTV Final">
+<addon id="service.iptv.flowproxy" name="IPTV Flow Local Proxy" version="1.3.3" provider-name="IPTV Final">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -27,7 +27,7 @@
         <assets>
             <icon>icon.png</icon>
         </assets>
-        <news lang="es">v1.3.2: Catálogo dinámico de eventos Disney+, descarga periódica de bindings en cada TV Box y contrato Playback corregido con Authorization cruda; conserva sesiones DGO independientes.</news>
+        <news lang="es">v1.3.3: Disney solicita 1080p y configura IPTV Simple para actualizar automáticamente los eventos cada 10 minutos.</news>
     </extension>
 </addon>
 </addons>
